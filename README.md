@@ -1,10 +1,10 @@
-# What is the purpose of the classes and class libaries ?
+# What is the purpose of the classes and class libraries?
 
 ## Company.DataAccess
 
 ### Abstract
 
-> The IEntityRepository interface specifies what is required in an entity data access. On the other hand, IEmployeeDal indicates that its subclasses are responsible for the Employee Data Access.
+> The IEntityRepository interface specifies what is required for entity data access. On the other hand, IEmployeeDal indicates that its subclasses are responsible for the Employee Data Access.
 
 ### Concrete
 
@@ -16,8 +16,8 @@
 > TContext. (TEntity must be a class of IEntity and TContext is the
 > DbContext)
 > 
-> In this class the program do all of the database actions. Furthermore
-> I use a class that EfEmployeeDal which inherit from
+> In this class the program does all of the database actions. Furthermore
+> I use a class that EfEmployeeDal, which inherits from
 > EfEntityRepositoryBase. It allows to if we add new table in our
 > database, we have to just add new class such as EfNewTableDal.
 
@@ -26,24 +26,24 @@
 
 ### Abstract
 
-> I create a interface which called IEntity to understand which class is implement this interface. Other words, which class is entity class.
+> I create an interface called IEntity to understand which class implements this interface. In other words, which class is an entity class.
 
 ### Concrete
 
-> Employee class keeps the columns of Employee table.
+> Employee class keeps the columns of the Employee table.
 
 
 ## Company.Business
 
   
 
-> Business class libary created for controlling data access.
+> Business class library was created for controlling data access.
 
   
 
 ### Abstract
 
-> IEmployeeService is a interface that keeps data access methods. Even I change the data access type, I have to just change the I...Dal object.
+> IEmployeeService is an interface that keeps data access methods. Even if I change the data access type, I have to just change the I...Dal object.
 
   
 
