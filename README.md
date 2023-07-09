@@ -60,3 +60,24 @@
 ### ValidationRules & Utilities
 
 > EmployeeValidator class keeps rule for data access. It allows escape empty inputs or wrong get accesses. On the other hand, ValidationTool throw exceptions when there is a problem in validation of Validator.
+
+## Screenshots and features
+### Main page
+
+![main_page](https://github.com/mralibatu/GUI_EmployeeManagerDemo/assets/90419918/36dcbdf2-4a96-4444-93b6-aed9a40b7fef)
+
+### You can search employee with first name, last name, work position or all of them. 
+![search](https://github.com/mralibatu/GUI_EmployeeManagerDemo/assets/90419918/92a13e13-63c0-4e1b-85dd-ab68500ed05d)
+
+### Add Employee
+![add_employee](https://github.com/mralibatu/GUI_EmployeeManagerDemo/assets/90419918/e01dd2c9-ac42-469d-951b-6930b51ca464)
+
+### Update Employee
+>If you click an employee from table and click the "Update Employee" box, full name and work position automatically filled.
+>
+![update_employee_gif](https://github.com/mralibatu/GUI_EmployeeManagerDemo/assets/90419918/3edf5c1c-9607-409b-a1ff-3a308aaab285)
+
+### Delete Employee
+>Filling automatically is also here.
+>
+![delete_employee_gif](https://github.com/mralibatu/GUI_EmployeeManagerDemo/assets/90419918/5f13c214-0632-498b-8cb3-d1e9cc381f47)
