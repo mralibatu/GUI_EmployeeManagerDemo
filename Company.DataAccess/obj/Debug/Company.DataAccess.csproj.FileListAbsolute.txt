@@ -1,0 +1,15 @@
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\bin\Debug\Company.DataAccess.dll.config
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\bin\Debug\Company.DataAccess.dll
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\bin\Debug\Company.DataAccess.pdb
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\bin\Debug\Company.Entities.dll
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\bin\Debug\Company.Entities.pdb
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\bin\Debug\Company.Entities.dll.config
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\obj\Debug\Company.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\obj\Debug\Company.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\obj\Debug\Company.DataAccess.csproj.CopyComplete
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\obj\Debug\Company.DataAccess.dll
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.DataAccess\obj\Debug\Company.DataAccess.pdb

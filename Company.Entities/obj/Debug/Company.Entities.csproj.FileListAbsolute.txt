@@ -1,0 +1,7 @@
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.Entities\bin\Debug\Company.Entities.dll.config
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.Entities\bin\Debug\Company.Entities.dll
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.Entities\bin\Debug\Company.Entities.pdb
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.Entities\obj\Debug\Company.Entities.csproj.AssemblyReference.cache
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.Entities\obj\Debug\Company.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.Entities\obj\Debug\Company.Entities.dll
+C:\Users\Batu\Desktop\ATU\BTK\CSharp\MralibatuRecap1.1\Company.Entities\obj\Debug\Company.Entities.pdb
